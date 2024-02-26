@@ -23,3 +23,9 @@ import Module
 # print(answer)
 value = Module.str
 print(value)
+
+
+def say_hi(name):
+    print(f'Hi, {name}')
+
+say_hi('commandcodes')
