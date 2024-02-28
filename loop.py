@@ -14,3 +14,14 @@
 #     for x in range(1,13):
 #         print(f"{i} X {x} = {i*x}")
 #     print("================")
+
+# num = 2
+
+# while num > 0:
+#     print(f"Hello {num}")
+#     num = num -1
+
+schools = ['Miva', 'Laotech', 'UI']
+
+for school in schools:
+    print(school)
